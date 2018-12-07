@@ -1,0 +1,15 @@
+c:\users\teedough\documents\visual studio 2013\Projects\FinalBrowser\FinalBrowser\bin\Debug\FinalBrowser.exe.config
+c:\users\teedough\documents\visual studio 2013\Projects\FinalBrowser\FinalBrowser\bin\Debug\FinalBrowser.exe
+c:\users\teedough\documents\visual studio 2013\Projects\FinalBrowser\FinalBrowser\bin\Debug\FinalBrowser.pdb
+c:\users\teedough\documents\visual studio 2013\Projects\FinalBrowser\FinalBrowser\obj\Debug\FinalBrowser.Form1.resources
+c:\users\teedough\documents\visual studio 2013\Projects\FinalBrowser\FinalBrowser\obj\Debug\FinalBrowser.Properties.Resources.resources
+c:\users\teedough\documents\visual studio 2013\Projects\FinalBrowser\FinalBrowser\obj\Debug\FinalBrowser.csproj.GenerateResource.Cache
+c:\users\teedough\documents\visual studio 2013\Projects\FinalBrowser\FinalBrowser\obj\Debug\FinalBrowser.exe
+c:\users\teedough\documents\visual studio 2013\Projects\FinalBrowser\FinalBrowser\obj\Debug\FinalBrowser.pdb
+c:\users\teedough\documents\visual studio 2013\Projects\FinalBrowser\FinalBrowser\bin\Debug\MaterialSkin.dll
+C:\Users\Teedough\documents\visual studio 2013\Projects\FinalBrowser\FinalBrowser\obj\Debug\FinalBrowser.csprojResolveAssemblyReference.cache
+C:\Users\Teedough\documents\visual studio 2013\Projects\FinalBrowser\FinalBrowser\obj\Debug\FinalBrowser.LoginForm.resources
+C:\Users\Teedough\documents\visual studio 2013\Projects\FinalBrowser\FinalBrowser\obj\Debug\FinalBrowser.ShopDataForm.resources
+C:\Users\Teedough\documents\visual studio 2013\Projects\FinalBrowser\FinalBrowser\obj\Debug\FinalBrowser.ConsumptionForm.resources
+C:\Users\Teedough\documents\visual studio 2013\Projects\FinalBrowser\FinalBrowser\obj\Debug\FinalBrowser.DateForm.resources
+C:\Users\Teedough\documents\visual studio 2013\Projects\FinalBrowser\FinalBrowser\obj\Debug\FinalBrowser.TimeForm.resources
